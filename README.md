@@ -1,0 +1,3 @@
+# Gender-age-detection-CNN_deep_learning
+
+Computer vision and machine learning applications is an exciting topic, and its key for many real time applications like video summarization, image retrieval and image classifications. One of the most trend methods in deep learning is a convolutional neural network, used for many applications of image processing and computer vision. In this work the Convolutional Neural Networks proposed for Gender and Age detection by using facial image classification, the proposed model tested on created labeled dataset by collecting downloaded the images from Google, Pinterset website. The proposed model achieved highest result of accuracy at Gender detection and good enough at Age detection, precision, and sensitivity with this dataset. 
